@@ -10,6 +10,7 @@ function countdown() {
   }
 }
 
+
 function stop(){
   if(stopped){
     timerId = setInterval(countdown, 1000);

@@ -58,4 +58,3 @@ function breik() {
   console.log("BREAK INITIATED");
   alert("time for break")
 }
-

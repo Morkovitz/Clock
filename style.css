@@ -58,3 +58,12 @@ button:focus {
 .buttons {
     display: inline;
 }
+
+#sessCount{
+    color: white;
+    font-size: 26px;
+}
+p{
+    color: white;
+    font-size: 26px;
+}
